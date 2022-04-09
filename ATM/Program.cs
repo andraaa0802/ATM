@@ -258,11 +258,9 @@ namespace ConsoleApp2
                 }
                 else
                 {
-
+                    Console.WriteLine("Your choice is not available");
                 }
             }
-
-
         }
     }
 
